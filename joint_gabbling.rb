@@ -37,3 +37,46 @@ c = gabbler.learn("[ Who ] American Civil War [ What ] Is fought between the con
 end
 
 gabbler.unlearn!                          # Forget Sherlock Holmes.
+
+
+# I'm confident it is not [ maisette . ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ maisette . ].
+# I'm confident it is not [ maisette . ].
+# I'm less unconfident it is not [ maisette . ].
+# I'm sure it is [ maisette . ].
+# I'm confident it is not [ cette [ Who ] Ann Boleyn [ What ] Is beheaded by sword ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ cette [ Who ] Ann Boleyn [ What ] Is beheaded by sword ].
+# I'm confident it is not [ sinon  [ When ] Between 1861 to 1864 ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ sinon  [ When ] Between 1861 to 1864 ].
+# I'm confident it is not [ sinon  [ When ] Between 1861 to 1864 ].
+# I'm less unconfident it is not [ sinon  [ When ] Between 1861 to 1864 ].
+# I'm sure it is [ sinon  [ When ] Between 1861 to 1864 ].
+# I'm confident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ].
+# I'm confident it is not [ cette Cette Marie Antionette es le mort.  ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ cette Cette Marie Antionette es le mort.  ].
+# I'm confident it is not [ cette Cette Marie Antionette es le mort.  ].
+# I'm less unconfident it is not [ cette Cette Marie Antionette es le mort.  ].
+# I'm sure it is [ cette Cette Marie Antionette es le mort.  ].
+# I'm confident it is not [ maisette . ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ maisette . ].
+# I'm confident it is not [ maisette . ].
+# I'm less unconfident it is not [ maisette . ].
+# I'm confident it is not [ maisette . ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ maisette . ].
+# I'm confident it is not [ maisette . ].
+# I'm less unconfident it is not [ maisette . ].
+# I'm sure it is [ maisette . ].
+# I'm confident it is not [ maisette . ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ maisette . ].
+# I'm confident it is not [ maisette . ].
+# I'm less unconfident it is not [ maisette . ].
+# I'm confident it is not [ maisette Mais cette Napoleon es ne le mort. ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ maisette Mais cette Napoleon es ne le mort. ].
+# I'm confident it is not [ maisette Mais cette Napoleon es ne le mort. ].
+# I'm less unconfident it is not [ maisette Mais cette Napoleon es ne le mort. ].
+# I'm confident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ] as it has only 0.054450000000000005 probability.
+# I'm confident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ].
+# I'm confident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ].
+# I'm less unconfident it is not [ sinon Sinon Anna Boleyn es ne le vie ou le drole. ].
+
