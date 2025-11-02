@@ -1,6 +1,11 @@
 ## Disintangled Analytics
 This model combines my DSL language with Get Statistics in order to create an entirely new program based on its weights.
 
+## License
+This license is non negotiable, and constitue security bypassing:
+
+[License](https://bequestdecendresstudios.github.io/Documentation/posts/license/index.html)
+
 ### Maisette DSL
 
 To perform quiquandquo:
